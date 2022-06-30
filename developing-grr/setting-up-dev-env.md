@@ -1,4 +1,4 @@
-# Setting Up a Development Environment
+# Setting Up a Development Environment (Unix)
 
 > **NOTE:** This article describes setting up GRR development environment on Ubuntu 18 (Xenial) or Debian 10 (buster). Most of the instructions below are applicable to other Linux distributions as well as to Mac OS X, although some details may differ from platform to platform.
 
